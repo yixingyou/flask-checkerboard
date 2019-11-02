@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#main {
+    text-align: center;
+}
+li {
+    display: inline-block;
+    margin: -2px;
+}
+.b1 {
+    background-color: red;
+    width: 25px;
+    height: 25px;
+}
+.b2 {
+    background-color: black;
+    width: 25px;
+    height: 25px;
+}
